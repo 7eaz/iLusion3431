@@ -60,7 +60,7 @@
 	--font:				"gg sans", "Noto Sans";		/* font used in most places														*/
 	--textshadow:			transparent;			/* default: transparent				(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)		*/
 	
-	--background:			url(https://www.truyen-hentai.com/ar/one-piece-hentai-porn/the-best-3-girl-futa#);	/* general background image					*/
+	--background:			url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.2dhentai.club%2Fwp-content%2Fuploads%2F2022%2F04%2FNami-One-Piece-rule34-hentai-image.jpg&tbnid=BVwtzWM-iZrDNM&vet=10CAgQxiAoAmoXChMI2I-ij_T4kAMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2F2dhentai.club%2F2022%2F04%2F19%2Fnami-one-piece-porn-r34%2F&docid=v269B-xR1z44BM&w=400&h=565&q=one%20piece%20hentai&ved=0CAgQxiAoAmoXChMI2I-ij_T4kAMVAAAAAB0AAAAAEAc);	/* general background image					*/
 	--backgroundposition:		center;				/* default: center				(position of background - values: [center/top/right/bottom/left])			*/
 	--backgroundsize:		cover;				/* default: cover				(sizefit of background - values: [cover/contain/auto])					*/
 	--backgroundblur:		0;				/* default: 0					(blur in px, only works when --background is set to an image)				*/
